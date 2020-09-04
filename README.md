@@ -129,7 +129,7 @@ Refer to the [document](docs/circleci.md)
 
 ## Integration with GitLab CI
 
-A sample project with config can be found [here](https://gitlab.com/prabhu3/NodeGoat/-/blob/master/.gitlab-ci.yml)
+A sample project with config can be found [here](https://gitlab.com/prabhusl/NodeGoat/-/blob/master/.gitlab-ci.yml)
 
 ```yaml
 sast:
